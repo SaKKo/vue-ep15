@@ -1,6 +1,10 @@
-# workshop-login-crud
+มี 2 branch ครับ
 
-> My mind-blowing Nuxt.js project
+master (default) สำหรับ EP15
+
+`git checkout crud` สำหรับ ​EP16 ครับ
+
+ใครว่างทำปุ่ม logout เล่นด้วยนะครับ
 
 ## Build Setup
 
